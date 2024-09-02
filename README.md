@@ -10,6 +10,7 @@
 | [0056-merge-intervals](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0088-merge-sorted-array) |
+| [0128-longest-consecutive-sequence](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0287-find-the-duplicate-number) |
@@ -59,6 +60,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0229-majority-element-ii) |
 ## Divide and Conquer
@@ -70,4 +72,8 @@
 | ------- |
 | [0169-majority-element](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0229-majority-element-ii) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
