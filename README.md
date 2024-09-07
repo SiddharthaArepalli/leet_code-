@@ -20,6 +20,7 @@
 | [0898-transpose-matrix](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0898-transpose-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1677-matrix-diagonal-sum) |
+| [1791-richest-customer-wealth](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1791-richest-customer-wealth) |
 ## Math
 |  |
 | ------- |
@@ -33,6 +34,7 @@
 | [0898-transpose-matrix](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0898-transpose-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1677-matrix-diagonal-sum) |
+| [1791-richest-customer-wealth](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1791-richest-customer-wealth) |
 ## Simulation
 |  |
 | ------- |
