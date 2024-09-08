@@ -21,6 +21,7 @@
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1791-richest-customer-wealth) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Math
 |  |
 | ------- |
@@ -35,11 +36,13 @@
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1791-richest-customer-wealth) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0054-spiral-matrix) |
 | [0898-transpose-matrix](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0898-transpose-matrix) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Two Pointers
 |  |
 | ------- |
@@ -63,6 +66,7 @@
 | [0088-merge-sorted-array](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0229-majority-element-ii) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Hash Table
 |  |
 | ------- |
@@ -96,4 +100,8 @@
 | ------- |
 | [0118-pascals-triangle](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0152-maximum-product-subarray) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2585-delete-greatest-value-in-each-row](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2585-delete-greatest-value-in-each-row) |
 <!---LeetCode Topics End-->
