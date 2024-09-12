@@ -20,6 +20,7 @@
 | [0898-transpose-matrix](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0898-transpose-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1677-matrix-diagonal-sum) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1791-richest-customer-wealth) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Math
@@ -59,6 +60,7 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0287-find-the-duplicate-number) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Sorting
 |  |
 | ------- |
@@ -74,6 +76,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0229-majority-element-ii) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -83,6 +86,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0229-majority-element-ii) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Union Find
 |  |
 | ------- |
@@ -91,6 +95,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Sliding Window
 |  |
 | ------- |
