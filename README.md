@@ -53,6 +53,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
@@ -131,6 +132,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0021-merge-two-sorted-lists) |
+| [0061-rotate-list](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0061-rotate-list) |
 ## Recursion
 |  |
 | ------- |
