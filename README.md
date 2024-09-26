@@ -13,6 +13,7 @@
 | [0088-merge-sorted-array](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0128-longest-consecutive-sequence) |
+| [0137-single-number-ii](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0229-majority-element-ii) |
@@ -67,6 +68,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0137-single-number-ii) |
 | [0287-find-the-duplicate-number](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0287-find-the-duplicate-number) |
 | [1435-xor-queries-of-a-subarray](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1786-count-the-number-of-consistent-strings) |
