@@ -23,6 +23,7 @@
 | [1435-xor-queries-of-a-subarray](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1435-xor-queries-of-a-subarray) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1651-shuffle-string](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1651-shuffle-string) |
 | [1677-matrix-diagonal-sum](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1677-matrix-diagonal-sum) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -91,6 +92,7 @@
 | [0169-majority-element](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0229-majority-element-ii) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Divide and Conquer
 |  |
@@ -102,6 +104,7 @@
 | [0169-majority-element](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0229-majority-element-ii) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Union Find
 |  |
