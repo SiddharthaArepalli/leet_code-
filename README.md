@@ -33,6 +33,7 @@
 | [1791-richest-customer-wealth](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1791-richest-customer-wealth) |
 | [2058-concatenation-of-array](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2058-concatenation-of-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2881-split-strings-by-separator](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2881-split-strings-by-separator) |
 ## Math
@@ -63,6 +64,7 @@
 | [0061-rotate-list](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0287-find-the-duplicate-number) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Binary Search
 |  |
 | ------- |
@@ -86,6 +88,7 @@
 | [0169-majority-element](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0229-majority-element-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1256-rank-transform-of-an-array) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Hash Table
 |  |
@@ -99,6 +102,7 @@
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1694-make-sum-divisible-by-p) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Divide and Conquer
 |  |
 | ------- |
