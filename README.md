@@ -24,6 +24,7 @@
 | [0898-transpose-matrix](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0898-transpose-matrix) |
 | [1002-maximum-width-ramp](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1002-maximum-width-ramp) |
 | [1256-rank-transform-of-an-array](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1256-rank-transform-of-an-array) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1435-xor-queries-of-a-subarray](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1435-xor-queries-of-a-subarray) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -146,6 +147,7 @@
 | [0920-uncommon-words-from-two-sentences](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1304-longest-happy-string) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1651-shuffle-string](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1651-shuffle-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -211,6 +213,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0145-binary-tree-postorder-traversal) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Binary Tree
 |  |
 | ------- |
@@ -249,4 +252,8 @@
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Trie
+|  |
+| ------- |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 <!---LeetCode Topics End-->
