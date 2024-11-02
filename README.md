@@ -169,6 +169,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2580-circular-sentence](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2580-circular-sentence) |
 | [2881-split-strings-by-separator](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2881-split-strings-by-separator) |
 | [3195-separate-black-and-white-balls](https://github.com/SiddharthaArepalli/leet_code-/tree/master/3195-separate-black-and-white-balls) |
 ## Sliding Window
