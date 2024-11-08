@@ -21,6 +21,7 @@
 | [0229-majority-element-ii](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0287-find-the-duplicate-number) |
+| [0494-target-sum](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0496-next-greater-element-i) |
 | [0898-transpose-matrix](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0898-transpose-matrix) |
 | [1002-maximum-width-ramp](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1002-maximum-width-ramp) |
@@ -189,6 +190,7 @@
 | ------- |
 | [0118-pascals-triangle](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0152-maximum-product-subarray) |
+| [0494-target-sum](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0494-target-sum) |
 | [1013-fibonacci-number](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1013-fibonacci-number) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2586-longest-square-streak-in-an-array) |
@@ -273,6 +275,7 @@
 | ------- |
 | [0078-subsets](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0090-subsets-ii) |
+| [0494-target-sum](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0494-target-sum) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Enumeration
