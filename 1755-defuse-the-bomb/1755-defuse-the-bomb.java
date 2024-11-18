@@ -15,7 +15,7 @@ class Solution {
             }
             else{
                 int sum = 0;
-                for(int s = 1; s<=-k;s++){
+                for(int s = 1; s<=Math.abs(k);s++){
                     sum+=code[(n+i-s)%n];
                 }
                 res[i] = sum;
