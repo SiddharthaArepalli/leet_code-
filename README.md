@@ -57,6 +57,7 @@
 | [2586-longest-square-streak-in-an-array](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2716-prime-subtraction-operation) |
 | [2881-split-strings-by-separator](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2881-split-strings-by-separator) |
@@ -90,6 +91,7 @@
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2058-concatenation-of-array](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2058-concatenation-of-array) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2585-delete-greatest-value-in-each-row) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Two Pointers
 |  |
 | ------- |
@@ -255,6 +257,7 @@
 | [2164-two-best-non-overlapping-events](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2164-two-best-non-overlapping-events) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Prefix Sum
 |  |
 | ------- |
