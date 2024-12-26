@@ -14,7 +14,7 @@ class Solution {
             return ;
         }
         
-        backtrack(ind+1, res-nums[ind], nums, target);
         backtrack(ind+1, res+nums[ind], nums, target);
+        backtrack(ind+1, res-nums[ind], nums, target);
     }
 }
