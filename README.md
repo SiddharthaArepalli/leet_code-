@@ -32,6 +32,7 @@
 | [0907-koko-eating-bananas](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0907-koko-eating-bananas) |
 | [0948-sort-an-array](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0948-sort-an-array) |
 | [1002-maximum-width-ramp](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1002-maximum-width-ramp) |
+| [1063-best-sightseeing-pair](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1063-best-sightseeing-pair) |
 | [1256-rank-transform-of-an-array](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1256-rank-transform-of-an-array) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1435-xor-queries-of-a-subarray](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1435-xor-queries-of-a-subarray) |
@@ -270,6 +271,7 @@
 | [0152-maximum-product-subarray](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0152-maximum-product-subarray) |
 | [0494-target-sum](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0494-target-sum) |
 | [1013-fibonacci-number](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1013-fibonacci-number) |
+| [1063-best-sightseeing-pair](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1063-best-sightseeing-pair) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2164-two-best-non-overlapping-events](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2164-two-best-non-overlapping-events) |
 | [2586-longest-square-streak-in-an-array](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2586-longest-square-streak-in-an-array) |
