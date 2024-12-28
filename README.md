@@ -113,6 +113,7 @@
 | [0287-find-the-duplicate-number](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0567-permutation-in-string) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1894-merge-strings-alternately](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1894-merge-strings-alternately) |
 | [1972-rotating-the-box](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1972-rotating-the-box) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -241,6 +242,7 @@
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1894-merge-strings-alternately](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1894-merge-strings-alternately) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2300-construct-string-with-repeat-limit](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2300-construct-string-with-repeat-limit) |
