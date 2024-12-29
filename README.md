@@ -112,6 +112,7 @@
 | [0061-rotate-list](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0287-find-the-duplicate-number) |
+| [0345-reverse-vowels-of-a-string](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0567-permutation-in-string](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0567-permutation-in-string) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1894-merge-strings-alternately](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1894-merge-strings-alternately) |
@@ -229,6 +230,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0345-reverse-vowels-of-a-string](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0387-first-unique-character-in-a-string) |
 | [0567-permutation-in-string](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0567-permutation-in-string) |
