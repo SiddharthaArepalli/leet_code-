@@ -113,6 +113,7 @@
 | [0088-merge-sorted-array](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0345-reverse-vowels-of-a-string) |
+| [0443-string-compression](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0567-permutation-in-string) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1894-merge-strings-alternately](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1894-merge-strings-alternately) |
@@ -233,6 +234,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0387-first-unique-character-in-a-string) |
+| [0443-string-compression](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0567-permutation-in-string) |
 | [0742-to-lower-case](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0812-rotate-string) |
