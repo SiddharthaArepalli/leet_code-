@@ -113,6 +113,7 @@
 | [0088-merge-sorted-array](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0567-permutation-in-string) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -234,6 +235,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0567-permutation-in-string) |
 | [0742-to-lower-case](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0742-to-lower-case) |
@@ -276,6 +278,7 @@
 | ------- |
 | [0118-pascals-triangle](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0152-maximum-product-subarray) |
+| [0392-is-subsequence](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0392-is-subsequence) |
 | [0494-target-sum](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0494-target-sum) |
 | [1013-fibonacci-number](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1013-fibonacci-number) |
 | [1063-best-sightseeing-pair](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1063-best-sightseeing-pair) |
