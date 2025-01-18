@@ -26,6 +26,7 @@
 | [0287-find-the-duplicate-number](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0287-find-the-duplicate-number) |
 | [0494-target-sum](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0496-next-greater-element-i) |
+| [0643-maximum-average-subarray-i](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0643-maximum-average-subarray-i) |
 | [0780-max-chunks-to-make-sorted](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0780-max-chunks-to-make-sorted) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0898-transpose-matrix](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0898-transpose-matrix) |
@@ -295,6 +296,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0567-permutation-in-string) |
+| [0643-maximum-average-subarray-i](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0643-maximum-average-subarray-i) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1755-defuse-the-bomb](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1755-defuse-the-bomb) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
