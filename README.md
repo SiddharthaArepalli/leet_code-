@@ -60,6 +60,7 @@
 | [1972-rotating-the-box](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1972-rotating-the-box) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2058-concatenation-of-array](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2058-concatenation-of-array) |
+| [2145-grid-game](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2145-grid-game) |
 | [2164-two-best-non-overlapping-events](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2164-two-best-non-overlapping-events) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -107,6 +108,7 @@
 | [1677-matrix-diagonal-sum](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1791-richest-customer-wealth) |
 | [1972-rotating-the-box](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1972-rotating-the-box) |
+| [2145-grid-game](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2145-grid-game) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2685-first-completely-painted-row-or-column](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2685-first-completely-painted-row-or-column) |
 ## Simulation
@@ -347,6 +349,7 @@
 | [1694-make-sum-divisible-by-p](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1694-make-sum-divisible-by-p) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2145-grid-game](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2145-grid-game) |
 | [2358-number-of-ways-to-split-array](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2691-count-vowel-strings-in-ranges) |
