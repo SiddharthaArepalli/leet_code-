@@ -37,6 +37,7 @@
 | [1063-best-sightseeing-pair](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1063-best-sightseeing-pair) |
 | [1256-rank-transform-of-an-array](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1256-rank-transform-of-an-array) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1396-count-servers-that-communicate](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1396-count-servers-that-communicate) |
 | [1435-xor-queries-of-a-subarray](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1435-xor-queries-of-a-subarray) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -104,6 +105,7 @@
 | [0054-spiral-matrix](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0074-search-a-2d-matrix) |
 | [0898-transpose-matrix](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0898-transpose-matrix) |
+| [1396-count-servers-that-communicate](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1396-count-servers-that-communicate) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1677-matrix-diagonal-sum) |
@@ -246,6 +248,7 @@
 | [0383-ransom-note](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0387-first-unique-character-in-a-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1396-count-servers-that-communicate](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1502-construct-k-palindrome-strings) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -257,6 +260,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0128-longest-consecutive-sequence) |
+| [1396-count-servers-that-communicate](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1396-count-servers-that-communicate) |
 ## String
 |  |
 | ------- |
@@ -396,6 +400,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1396-count-servers-that-communicate](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1396-count-servers-that-communicate) |
 ## Binary Tree
 |  |
 | ------- |
@@ -498,6 +503,7 @@
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1396-count-servers-that-communicate](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1396-count-servers-that-communicate) |
 ## Database
 |  |
 | ------- |
