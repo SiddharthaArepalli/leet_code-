@@ -294,6 +294,7 @@
 | [1502-construct-k-palindrome-strings](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1651-shuffle-string](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1651-shuffle-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -327,6 +328,7 @@
 | [0567-permutation-in-string](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0643-maximum-average-subarray-i) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1755-defuse-the-bomb](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1755-defuse-the-bomb) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2599-take-k-of-each-character-from-left-and-right) |
