@@ -415,6 +415,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0904-leaf-similar-trees](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0904-leaf-similar-trees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -423,6 +424,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0904-leaf-similar-trees](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0904-leaf-similar-trees) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1396-count-servers-that-communicate](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1396-count-servers-that-communicate) |
 ## Binary Tree
@@ -433,6 +435,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0904-leaf-similar-trees](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0904-leaf-similar-trees) |
 ## Design
 |  |
 | ------- |
