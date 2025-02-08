@@ -242,6 +242,7 @@
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2300-construct-string-with-repeat-limit](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2434-design-a-number-container-system](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2434-design-a-number-container-system) |
 | [2487-optimal-partition-of-string](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2487-optimal-partition-of-string) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -366,6 +367,7 @@
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2164-two-best-non-overlapping-events](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2164-two-best-non-overlapping-events) |
 | [2300-construct-string-with-repeat-limit](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2300-construct-string-with-repeat-limit) |
+| [2434-design-a-number-container-system](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2434-design-a-number-container-system) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -446,6 +448,7 @@
 |  |
 | ------- |
 | [1497-design-a-stack-with-increment-operation](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1497-design-a-stack-with-increment-operation) |
+| [2434-design-a-number-container-system](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2434-design-a-number-container-system) |
 ## Memoization
 |  |
 | ------- |
@@ -534,6 +537,7 @@
 ## Ordered Set
 |  |
 | ------- |
+| [2434-design-a-number-container-system](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2434-design-a-number-container-system) |
 | [2868-continuous-subarrays](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2868-continuous-subarrays) |
 ## Breadth-First Search
 |  |
