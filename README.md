@@ -136,6 +136,7 @@
 | [2585-delete-greatest-value-in-each-row](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/SiddharthaArepalli/leet_code-/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3447-clear-digits](https://github.com/SiddharthaArepalli/leet_code-/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SiddharthaArepalli/leet_code-/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Two Pointers
 |  |
@@ -332,6 +333,7 @@
 | [3195-separate-black-and-white-balls](https://github.com/SiddharthaArepalli/leet_code-/tree/master/3195-separate-black-and-white-balls) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/SiddharthaArepalli/leet_code-/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/SiddharthaArepalli/leet_code-/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3447-clear-digits](https://github.com/SiddharthaArepalli/leet_code-/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/SiddharthaArepalli/leet_code-/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/SiddharthaArepalli/leet_code-/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3636-check-balanced-string](https://github.com/SiddharthaArepalli/leet_code-/tree/master/3636-check-balanced-string) |
@@ -419,6 +421,7 @@
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2470-removing-stars-from-a-string](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2470-removing-stars-from-a-string) |
+| [3447-clear-digits](https://github.com/SiddharthaArepalli/leet_code-/tree/master/3447-clear-digits) |
 ## Tree
 |  |
 | ------- |
