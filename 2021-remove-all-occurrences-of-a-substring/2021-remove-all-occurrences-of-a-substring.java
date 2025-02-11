@@ -12,9 +12,12 @@ class Solution {
                        sb.append(st.pop());
                  }
                  sb.reverse();
-                if(!sb.toString().equals(part)){
-                    for (char ch : sb.toString().toCharArray()) {
-                        st.push(ch);
+                if(sb.toString().equals(part)){
+                     continue;
+                }
+                else{
+                    for(int k = 0;k<sb.length();k++){
+                        st.push(sb.charAt(k));
                     }
                 }
             }
