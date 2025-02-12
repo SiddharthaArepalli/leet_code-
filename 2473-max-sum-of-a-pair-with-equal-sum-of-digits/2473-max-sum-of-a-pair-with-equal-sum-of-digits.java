@@ -9,10 +9,6 @@ class Solution {
     }
     public int maximumSum(int[] nums) {
          int n = nums.length;
-         int dSum[] = new int[n];
-         for(int i = 0;i<n;i++){
-            dSum[i] = digitSum(nums[i]);
-         }
          HashMap<Integer,List<Integer>> hm = new HashMap<>();
          for(int num : nums){
             int ds = digitSum(num);
