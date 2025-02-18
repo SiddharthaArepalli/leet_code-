@@ -38,6 +38,7 @@
 | [0907-koko-eating-bananas](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0907-koko-eating-bananas) |
 | [0948-sort-an-array](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0948-sort-an-array) |
 | [0952-word-subsets](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0952-word-subsets) |
+| [0979-di-string-match](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0979-di-string-match) |
 | [1002-maximum-width-ramp](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1002-maximum-width-ramp) |
 | [1063-best-sightseeing-pair](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1063-best-sightseeing-pair) |
 | [1256-rank-transform-of-an-array](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1256-rank-transform-of-an-array) |
@@ -162,6 +163,7 @@
 | [0392-is-subsequence](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0567-permutation-in-string) |
+| [0979-di-string-match](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0979-di-string-match) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1894-merge-strings-alternately) |
@@ -324,6 +326,7 @@
 | [0920-uncommon-words-from-two-sentences](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [0979-di-string-match](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0979-di-string-match) |
 | [1160-letter-tile-possibilities](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1160-letter-tile-possibilities) |
 | [1304-longest-happy-string](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1304-longest-happy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -498,6 +501,7 @@
 | [0670-maximum-swap](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0670-maximum-swap) |
 | [0780-max-chunks-to-make-sorted](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [0979-di-string-match](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0979-di-string-match) |
 | [1304-longest-happy-string](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1304-longest-happy-string) |
 | [1502-construct-k-palindrome-strings](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1502-construct-k-palindrome-strings) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
