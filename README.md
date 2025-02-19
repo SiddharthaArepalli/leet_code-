@@ -363,6 +363,7 @@
 | [3451-string-compression-iii](https://github.com/SiddharthaArepalli/leet_code-/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/SiddharthaArepalli/leet_code-/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3636-check-balanced-string](https://github.com/SiddharthaArepalli/leet_code-/tree/master/3636-check-balanced-string) |
+| [3709-find-special-substring-of-length-k](https://github.com/SiddharthaArepalli/leet_code-/tree/master/3709-find-special-substring-of-length-k) |
 ## Sliding Window
 |  |
 | ------- |
