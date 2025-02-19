@@ -432,6 +432,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0061-rotate-list) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0816-design-hashset](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0816-design-hashset) |
 ## Recursion
 |  |
