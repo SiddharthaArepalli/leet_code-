@@ -11,6 +11,7 @@
 | [0048-rotate-image](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0088-merge-sorted-array) |
@@ -114,6 +115,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0268-missing-number) |
 | [0670-maximum-swap](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0670-maximum-swap) |
