@@ -56,6 +56,7 @@
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1646-kth-missing-positive-number](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1646-kth-missing-positive-number) |
 | [1651-shuffle-string](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1651-shuffle-string) |
 | [1677-matrix-diagonal-sum](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1677-matrix-diagonal-sum) |
@@ -122,6 +123,7 @@
 | [0670-maximum-swap](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0670-maximum-swap) |
 | [1013-fibonacci-number](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1013-fibonacci-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1477-product-of-the-last-k-numbers) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2448-count-number-of-bad-pairs](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2448-count-number-of-bad-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2716-prime-subtraction-operation) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -397,6 +399,7 @@
 | [0494-target-sum](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0494-target-sum) |
 | [1013-fibonacci-number](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1013-fibonacci-number) |
 | [1063-best-sightseeing-pair](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1063-best-sightseeing-pair) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2164-two-best-non-overlapping-events](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2164-two-best-non-overlapping-events) |
 | [2586-longest-square-streak-in-an-array](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2586-longest-square-streak-in-an-array) |
@@ -426,6 +429,7 @@
 | [1435-xor-queries-of-a-subarray](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1435-xor-queries-of-a-subarray) |
 | [1477-product-of-the-last-k-numbers](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1694-make-sum-divisible-by-p](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1694-make-sum-divisible-by-p) |
 | [1833-find-the-highest-altitude](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1833-find-the-highest-altitude) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
