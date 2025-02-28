@@ -84,6 +84,7 @@
 | [2145-grid-game](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2145-grid-game) |
 | [2164-two-best-non-overlapping-events](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2164-two-best-non-overlapping-events) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2195-time-needed-to-buy-tickets](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2195-time-needed-to-buy-tickets) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -156,6 +157,7 @@
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2058-concatenation-of-array](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2058-concatenation-of-array) |
+| [2195-time-needed-to-buy-tickets](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2195-time-needed-to-buy-tickets) |
 | [2470-removing-stars-from-a-string](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2470-removing-stars-from-a-string) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -573,6 +575,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0387-first-unique-character-in-a-string) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [2195-time-needed-to-buy-tickets](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2195-time-needed-to-buy-tickets) |
 | [2868-continuous-subarrays](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2868-continuous-subarrays) |
 ## String Matching
 |  |
