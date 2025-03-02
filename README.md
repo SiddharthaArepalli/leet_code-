@@ -102,6 +102,7 @@
 | [2691-count-vowel-strings-in-ranges](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2716-prime-subtraction-operation](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2716-prime-subtraction-operation) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2792-neighboring-bitwise-xor](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2792-neighboring-bitwise-xor) |
@@ -184,6 +185,7 @@
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3195-separate-black-and-white-balls](https://github.com/SiddharthaArepalli/leet_code-/tree/master/3195-separate-black-and-white-balls) |
 ## Binary Search
 |  |
@@ -290,6 +292,7 @@
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2685-first-completely-painted-row-or-column](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2685-first-completely-painted-row-or-column) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/SiddharthaArepalli/leet_code-/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/SiddharthaArepalli/leet_code-/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
