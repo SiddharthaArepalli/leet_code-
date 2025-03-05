@@ -125,6 +125,7 @@
 | [0048-rotate-image](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0069-sqrtx) |
+| [0172-factorial-trailing-zeroes](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0172-factorial-trailing-zeroes) |
 | [0268-missing-number](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0268-missing-number) |
 | [0670-maximum-swap](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0670-maximum-swap) |
 | [1013-fibonacci-number](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1013-fibonacci-number) |
