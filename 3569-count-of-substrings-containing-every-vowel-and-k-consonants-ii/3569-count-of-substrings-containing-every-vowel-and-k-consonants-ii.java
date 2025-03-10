@@ -29,7 +29,7 @@ class Solution {
                 }
                 p = j;
             }
-            if(j >= (5+k-1)){
+            // if(j >= (5+k-1)){
                 if(con == k && hm.size() == 5){
                     count+=(pre[j]-j);
                 }
@@ -46,8 +46,8 @@ class Solution {
                     i++;
                 }else
                     j++;
-                }else
-                    j++;
+            // }else
+            // j++;
         }
         return count;
     }
