@@ -277,6 +277,7 @@
 | [1256-rank-transform-of-an-array](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1256-rank-transform-of-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1319-unique-number-of-occurrences) |
 | [1364-tuple-with-same-product](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1364-tuple-with-same-product) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1502-construct-k-palindrome-strings) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1694-make-sum-divisible-by-p) |
@@ -358,6 +359,7 @@
 | [1160-letter-tile-possibilities](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1160-letter-tile-possibilities) |
 | [1304-longest-happy-string](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1304-longest-happy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -404,6 +406,7 @@
 | [0567-permutation-in-string](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0643-maximum-average-subarray-i) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1755-defuse-the-bomb](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1755-defuse-the-bomb) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
