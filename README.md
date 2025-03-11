@@ -158,6 +158,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0054-spiral-matrix) |
+| [0874-backspace-string-compare](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0874-backspace-string-compare) |
 | [0898-transpose-matrix](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0898-transpose-matrix) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -183,6 +184,7 @@
 | [0392-is-subsequence](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0567-permutation-in-string) |
+| [0874-backspace-string-compare](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0874-backspace-string-compare) |
 | [0979-di-string-match](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0979-di-string-match) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -351,6 +353,7 @@
 | [0567-permutation-in-string](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0567-permutation-in-string) |
 | [0742-to-lower-case](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0812-rotate-string) |
+| [0874-backspace-string-compare](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0874-backspace-string-compare) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -489,6 +492,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0496-next-greater-element-i) |
 | [0780-max-chunks-to-make-sorted](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0780-max-chunks-to-make-sorted) |
+| [0874-backspace-string-compare](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0874-backspace-string-compare) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1002-maximum-width-ramp) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
