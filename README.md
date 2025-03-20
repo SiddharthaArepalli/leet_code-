@@ -503,11 +503,13 @@
 | [0021-merge-two-sorted-lists](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0203-remove-linked-list-elements](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0203-remove-linked-list-elements) |
 | [0816-design-hashset](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0816-design-hashset) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0021-merge-two-sorted-lists) |
+| [0203-remove-linked-list-elements](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0203-remove-linked-list-elements) |
 | [1013-fibonacci-number](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1013-fibonacci-number) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Stack
