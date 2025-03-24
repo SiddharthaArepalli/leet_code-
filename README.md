@@ -122,6 +122,7 @@
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/SiddharthaArepalli/leet_code-/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3427-special-array-ii](https://github.com/SiddharthaArepalli/leet_code-/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/SiddharthaArepalli/leet_code-/tree/master/3429-special-array-i) |
+| [3430-count-days-without-meetings](https://github.com/SiddharthaArepalli/leet_code-/tree/master/3430-count-days-without-meetings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/SiddharthaArepalli/leet_code-/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/SiddharthaArepalli/leet_code-/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/SiddharthaArepalli/leet_code-/tree/master/3483-alternating-groups-ii) |
@@ -278,6 +279,7 @@
 | [2586-longest-square-streak-in-an-array](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2586-longest-square-streak-in-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3430-count-days-without-meetings](https://github.com/SiddharthaArepalli/leet_code-/tree/master/3430-count-days-without-meetings) |
 ## Hash Table
 |  |
 | ------- |
