@@ -18,6 +18,7 @@
 | [0078-subsets](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0090-subsets-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0137-single-number-ii) |
@@ -354,6 +355,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0004-median-of-two-sorted-arrays) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0169-majority-element) |
 | [0948-sort-an-array](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0948-sort-an-array) |
 ## Counting
@@ -567,6 +569,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -589,6 +592,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -742,4 +746,8 @@
 |  |
 | ------- |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
