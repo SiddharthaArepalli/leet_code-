@@ -1,22 +1,21 @@
 class Solution {
-    public static int findSum(int nums[] , int ind , int totSum){
+    static int totSum = 0;
+    public static void findSum(int nums[] , int ind , int sum){
         int n = nums.length;
         // base 
         if(ind>= n){
-            return totSum;
+            totSum+=sum;
+            return;
         }
-        //not include 
-        int inc = findSum(nums , ind+1 ,totSum);
-        // include
-        int exc = findSum(nums,ind+1,totSum^nums[ind]);
-        //bracktrack
-        // totSum-=nums[ind]; 
-        return inc+exc;
+        findSum(nums , ind+1 ,sum);
+        int prevSum = sum;
+        findSum(nums,ind+1,sum^nums[ind]);
+        sum = prevSum; 
     }
     public int subsetXORSum(int[] nums) {
         int n = nums.length;
-        // int totSum = 0;
-        int res = findSum(nums,0,0);
-        return res;
+        totSum = 0;
+        findSum(nums,0,0);
+        return totSum;
     }
 }
