@@ -585,6 +585,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0572-subtree-of-another-tree](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0572-subtree-of-another-tree) |
 | [0904-leaf-similar-trees](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0904-leaf-similar-trees) |
 ## Depth-First Search
 |  |
@@ -596,6 +597,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0572-subtree-of-another-tree](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0572-subtree-of-another-tree) |
 | [0904-leaf-similar-trees](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0904-leaf-similar-trees) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1396-count-servers-that-communicate](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1396-count-servers-that-communicate) |
@@ -610,6 +612,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0572-subtree-of-another-tree](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0572-subtree-of-another-tree) |
 | [0904-leaf-similar-trees](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0904-leaf-similar-trees) |
 ## Design
 |  |
@@ -687,6 +690,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0572-subtree-of-another-tree) |
 | [0812-rotate-string](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1524-string-matching-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -742,6 +746,7 @@
 ## Hash Function
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0572-subtree-of-another-tree) |
 | [0816-design-hashset](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0816-design-hashset) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/SiddharthaArepalli/leet_code-/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Interactive
