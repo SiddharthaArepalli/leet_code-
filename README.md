@@ -65,6 +65,7 @@
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1646-kth-missing-positive-number](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1646-kth-missing-positive-number) |
 | [1651-shuffle-string](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1651-shuffle-string) |
+| [1656-count-good-triplets](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1656-count-good-triplets) |
 | [1677-matrix-diagonal-sum](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1677-matrix-diagonal-sum) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1694-make-sum-divisible-by-p](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1694-make-sum-divisible-by-p) |
@@ -672,6 +673,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [1656-count-good-triplets](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2998-count-symmetric-integers](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2998-count-symmetric-integers) |
