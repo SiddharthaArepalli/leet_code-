@@ -27,6 +27,7 @@
 | [0169-majority-element](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0229-majority-element-ii) |
+| [0239-sliding-window-maximum](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0287-find-the-duplicate-number) |
@@ -464,6 +465,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0643-maximum-average-subarray-i) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -500,6 +502,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0239-sliding-window-maximum) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0948-sort-an-array](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0948-sort-an-array) |
 | [1304-longest-happy-string](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1304-longest-happy-string) |
@@ -685,6 +688,7 @@
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0387-first-unique-character-in-a-string) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -707,6 +711,7 @@
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0239-sliding-window-maximum) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2868-continuous-subarrays](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2868-continuous-subarrays) |
 ## Merge Sort
