@@ -111,6 +111,7 @@
 | [2586-longest-square-streak-in-an-array](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2586-longest-square-streak-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2665-minimum-time-to-repair-cars](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2665-minimum-time-to-repair-cars) |
 | [2685-first-completely-painted-row-or-column](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2685-first-completely-painted-row-or-column) |
@@ -352,6 +353,7 @@
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2586-longest-square-streak-in-an-array) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2685-first-completely-painted-row-or-column](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2685-first-completely-painted-row-or-column) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -476,6 +478,7 @@
 | [2478-longest-nice-subarray](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2478-longest-nice-subarray) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2868-continuous-subarrays](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2868-continuous-subarrays) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/SiddharthaArepalli/leet_code-/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/SiddharthaArepalli/leet_code-/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
