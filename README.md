@@ -405,6 +405,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0038-count-and-say](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0038-count-and-say) |
 | [0344-reverse-string](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0383-ransom-note) |
