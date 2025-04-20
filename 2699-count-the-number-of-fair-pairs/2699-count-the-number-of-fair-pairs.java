@@ -1,30 +1,42 @@
 class Solution {
-    public long countFairPairs(int[] nums, int lower, int upper) {
+    public long countFairPairs(int[] nums, int low, int up) {
+         int n = nums.length;
         Arrays.sort(nums);
-        long ans = 0;
-        for (int i = 0; i < nums.length - 1; i++) {
-            int low = lowerBound(nums, i + 1, nums.length, lower - nums[i]);
-            int up = upperBound(nums, i + 1, nums.length, upper - nums[i]);
-            ans += up - low;
-        }
-        return ans;
-    }
-  
-    public int lowerBound(int[] nums, int start, int end, int target) {
-        while (start < end) {
-            int mid = start + (end - start) / 2;
-            if (nums[mid] >= target) end = mid;
-            else start = mid + 1;
-        }
-        return start;
-    }
+        long c = 0;
+        int i = 0;
+        while (i < n) {
+            int l = i + 1;
+            int r = n - 1;
+            int lP = n;
+            while (l <= r) {
+                int mid = (l + r) / 2;
+                if (nums[i] + nums[mid] >= low) {
+                    lP = mid;
+                    r = mid - 1;
+                } else {
+                    l = mid + 1;
+                }
+            }
 
-    public int upperBound(int[] nums, int start, int end, int target) {
-        while (start < end) {
-            int mid = start + (end - start) / 2;
-            if (nums[mid] > target) end = mid;
-            else start = mid + 1;
+            l = i + 1;
+            r = n - 1;
+            int hP = -1;
+            while (l <= r) {
+                int mid = (l + r) / 2;
+                if (nums[i] + nums[mid] <= up) {
+                    hP = mid;
+                    l = mid + 1;
+                } else {
+                    r = mid - 1;
+                }
+            }
+
+            if (lP <= hP) {
+                c += (hP - lP + 1);
+            }
+
+            i++;
         }
-        return start;
+        return c;
     }
 }
