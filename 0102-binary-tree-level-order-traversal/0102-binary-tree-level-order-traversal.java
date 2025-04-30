@@ -14,25 +14,22 @@
  * }
  */
 class Solution {
-        public static void lot(TreeNode node , int depth , Map<Integer , List<Integer>> map){
-            if(node == null){
-                return; 
-            }
-            map.putIfAbsent(depth , new ArrayList<>());
-            map.get(depth).add(node.val);
-            lot(node.left , depth+1, map);
-            lot(node.right , depth+1 , map);
-        }
         public List<List<Integer>> levelOrder(TreeNode root) {
-            List<Integer> ls = new ArrayList<>();
-            List<List<Integer>> res = new ArrayList<>();
-            HashMap<Integer , List<Integer>> hm = new HashMap<>();
-            if (root == null) return res;
-            lot(root , 0 , hm);
-            for(int i = 0;i<hm.size();i++){
-                List<Integer> ll = hm.get(i);
-                res.add(new ArrayList<>(ll));
+        List<List<Integer>> res = new ArrayList<>();
+        if (root == null) return res;
+        Queue<TreeNode> q = new LinkedList<>();
+        q.offer(root);
+        while (!q.isEmpty()) {
+            int size = q.size();
+            List<Integer> level = new ArrayList<>();
+            for (int i = 0; i < size; i++) {
+                TreeNode curr = q.poll();
+                level.add(curr.val);
+                if (curr.left != null) q.offer(curr.left);
+                if (curr.right != null) q.offer(curr.right);
             }
-            return res;
+            res.add(level);
         }
+        return res;
+    }
 }
