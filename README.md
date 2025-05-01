@@ -95,6 +95,7 @@
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2164-two-best-non-overlapping-events) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2195-time-needed-to-buy-tickets](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2195-time-needed-to-buy-tickets) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -265,6 +266,7 @@
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2164-two-best-non-overlapping-events](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2164-two-best-non-overlapping-events) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2586-longest-square-streak-in-an-array](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2586-longest-square-streak-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -313,6 +315,7 @@
 | [1798-max-number-of-k-sum-pairs](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2164-two-best-non-overlapping-events) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2585-delete-greatest-value-in-each-row) |
@@ -685,6 +688,7 @@
 | [1502-construct-k-palindrome-strings](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1502-construct-k-palindrome-strings) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2300-construct-string-with-repeat-limit](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2300-construct-string-with-repeat-limit) |
 | [2487-optimal-partition-of-string](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2487-optimal-partition-of-string) |
 | [2509-minimize-xor](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2509-minimize-xor) |
@@ -733,6 +737,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0387-first-unique-character-in-a-string) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2195-time-needed-to-buy-tickets](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2195-time-needed-to-buy-tickets) |
 | [2868-continuous-subarrays](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2868-continuous-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/SiddharthaArepalli/leet_code-/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -754,6 +759,7 @@
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0239-sliding-window-maximum) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2868-continuous-subarrays](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2868-continuous-subarrays) |
 ## Merge Sort
 |  |
