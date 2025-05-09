@@ -639,6 +639,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0783-search-in-a-binary-search-tree](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0783-search-in-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0904-leaf-similar-trees](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0904-leaf-similar-trees) |
 ## Depth-First Search
@@ -686,6 +687,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0783-search-in-a-binary-search-tree](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0783-search-in-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0904-leaf-similar-trees](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0904-leaf-similar-trees) |
 ## Design
@@ -868,6 +870,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0783-search-in-a-binary-search-tree](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0783-search-in-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0799-minimum-distance-between-bst-nodes) |
 ## Combinatorics
 |  |
