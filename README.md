@@ -187,6 +187,7 @@
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2998-count-symmetric-integers](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2998-count-symmetric-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SiddharthaArepalli/leet_code-/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/SiddharthaArepalli/leet_code-/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Matrix
 |  |
 | ------- |
@@ -395,6 +396,7 @@
 | [3455-minimum-length-of-string-after-operations](https://github.com/SiddharthaArepalli/leet_code-/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/SiddharthaArepalli/leet_code-/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/SiddharthaArepalli/leet_code-/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/SiddharthaArepalli/leet_code-/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/SiddharthaArepalli/leet_code-/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Divide and Conquer
 |  |
@@ -426,6 +428,7 @@
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/SiddharthaArepalli/leet_code-/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/SiddharthaArepalli/leet_code-/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/SiddharthaArepalli/leet_code-/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Union Find
 |  |
 | ------- |
@@ -492,6 +495,7 @@
 | [3451-string-compression-iii](https://github.com/SiddharthaArepalli/leet_code-/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/SiddharthaArepalli/leet_code-/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/SiddharthaArepalli/leet_code-/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/SiddharthaArepalli/leet_code-/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3636-check-balanced-string](https://github.com/SiddharthaArepalli/leet_code-/tree/master/3636-check-balanced-string) |
 | [3709-find-special-substring-of-length-k](https://github.com/SiddharthaArepalli/leet_code-/tree/master/3709-find-special-substring-of-length-k) |
 ## Sliding Window
@@ -538,6 +542,7 @@
 | [2164-two-best-non-overlapping-events](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2164-two-best-non-overlapping-events) |
 | [2262-solving-questions-with-brainpower](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2262-solving-questions-with-brainpower) |
 | [2586-longest-square-streak-in-an-array](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2586-longest-square-streak-in-an-array) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/SiddharthaArepalli/leet_code-/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
