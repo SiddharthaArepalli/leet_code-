@@ -20,6 +20,7 @@
 | [0090-subsets-ii](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0152-maximum-product-subarray) |
@@ -530,6 +531,7 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0392-is-subsequence) |
