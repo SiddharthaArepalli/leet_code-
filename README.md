@@ -139,6 +139,7 @@
 | [2868-continuous-subarrays](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2868-continuous-subarrays) |
 | [2881-split-strings-by-separator](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2881-split-strings-by-separator) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/SiddharthaArepalli/leet_code-/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/SiddharthaArepalli/leet_code-/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/SiddharthaArepalli/leet_code-/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/SiddharthaArepalli/leet_code-/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
@@ -489,6 +490,7 @@
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2881-split-strings-by-separator](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2881-split-strings-by-separator) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/SiddharthaArepalli/leet_code-/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/SiddharthaArepalli/leet_code-/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/SiddharthaArepalli/leet_code-/tree/master/3195-separate-black-and-white-balls) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/SiddharthaArepalli/leet_code-/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -545,6 +547,7 @@
 | [2164-two-best-non-overlapping-events](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2164-two-best-non-overlapping-events) |
 | [2262-solving-questions-with-brainpower](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2262-solving-questions-with-brainpower) |
 | [2586-longest-square-streak-in-an-array](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2586-longest-square-streak-in-an-array) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/SiddharthaArepalli/leet_code-/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/SiddharthaArepalli/leet_code-/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Heap (Priority Queue)
 |  |
@@ -736,6 +739,7 @@
 | [2616-maximal-score-after-applying-k-operations](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-prime-subtraction-operation](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2716-prime-subtraction-operation) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/SiddharthaArepalli/leet_code-/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/SiddharthaArepalli/leet_code-/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3195-separate-black-and-white-balls](https://github.com/SiddharthaArepalli/leet_code-/tree/master/3195-separate-black-and-white-balls) |
 ## Monotonic Stack
