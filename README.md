@@ -15,6 +15,7 @@
 | [0056-merge-intervals](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0090-subsets-ii) |
@@ -235,6 +236,7 @@
 | ------- |
 | [0018-4sum](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0018-4sum) |
 | [0061-rotate-list](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0344-reverse-string) |
@@ -316,6 +318,7 @@
 | ------- |
 | [0018-4sum](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0229-majority-element-ii) |
