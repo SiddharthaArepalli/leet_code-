@@ -14,6 +14,7 @@
 | [0054-spiral-matrix](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0078-subsets) |
@@ -201,6 +202,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0074-search-a-2d-matrix) |
 | [0898-transpose-matrix](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0898-transpose-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1396-count-servers-that-communicate) |
@@ -349,6 +351,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0219-contains-duplicate-ii) |
