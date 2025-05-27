@@ -679,6 +679,7 @@
 | [0783-search-in-a-binary-search-tree](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0783-search-in-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0904-leaf-similar-trees](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0904-leaf-similar-trees) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -702,6 +703,7 @@
 | [0904-leaf-similar-trees](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0904-leaf-similar-trees) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1396-count-servers-that-communicate](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1396-count-servers-that-communicate) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -727,6 +729,7 @@
 | [0783-search-in-a-binary-search-tree](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0783-search-in-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0904-leaf-similar-trees](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0904-leaf-similar-trees) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Design
 |  |
 | ------- |
@@ -865,6 +868,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1396-count-servers-that-communicate](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1396-count-servers-that-communicate) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Database
 |  |
 | ------- |
