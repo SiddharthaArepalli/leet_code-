@@ -459,6 +459,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0038-count-and-say](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0038-count-and-say) |
+| [0257-binary-tree-paths](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0383-ransom-note) |
@@ -673,6 +674,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0257-binary-tree-paths) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0572-subtree-of-another-tree) |
@@ -697,6 +699,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0257-binary-tree-paths) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0572-subtree-of-another-tree) |
@@ -725,6 +728,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0257-binary-tree-paths) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0572-subtree-of-another-tree) |
@@ -785,6 +789,7 @@
 | [0078-subsets](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0113-path-sum-ii) |
+| [0257-binary-tree-paths](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0494-target-sum) |
 | [1160-letter-tile-possibilities](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1160-letter-tile-possibilities) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
