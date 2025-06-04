@@ -269,6 +269,7 @@
 | [2699-count-the-number-of-fair-pairs](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3195-separate-black-and-white-balls](https://github.com/SiddharthaArepalli/leet_code-/tree/master/3195-separate-black-and-white-balls) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/SiddharthaArepalli/leet_code-/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -523,6 +524,7 @@
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/SiddharthaArepalli/leet_code-/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/SiddharthaArepalli/leet_code-/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3636-check-balanced-string](https://github.com/SiddharthaArepalli/leet_code-/tree/master/3636-check-balanced-string) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/SiddharthaArepalli/leet_code-/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3709-find-special-substring-of-length-k](https://github.com/SiddharthaArepalli/leet_code-/tree/master/3709-find-special-substring-of-length-k) |
 ## Sliding Window
 |  |
@@ -811,6 +813,7 @@
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2215-finding-3-digit-even-numbers) |
 | [2998-count-symmetric-integers](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2998-count-symmetric-integers) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/SiddharthaArepalli/leet_code-/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Trie
 |  |
 | ------- |
