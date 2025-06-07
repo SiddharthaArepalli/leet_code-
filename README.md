@@ -281,6 +281,7 @@
 | [0069-sqrtx](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0162-find-peak-element) |
+| [0222-count-complete-tree-nodes](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0300-longest-increasing-subsequence) |
@@ -314,6 +315,7 @@
 | [0078-subsets](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0137-single-number-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0222-count-complete-tree-nodes) |
 | [0260-single-number-iii](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0287-find-the-duplicate-number) |
@@ -686,6 +688,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -744,6 +747,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
