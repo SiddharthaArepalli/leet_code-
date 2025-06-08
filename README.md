@@ -469,6 +469,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0022-generate-parentheses](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0038-count-and-say) |
 | [0257-binary-tree-paths](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0344-reverse-string) |
@@ -564,6 +565,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0022-generate-parentheses) |
 | [0118-pascals-triangle](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -810,6 +812,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0090-subsets-ii) |
