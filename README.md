@@ -184,6 +184,7 @@
 | [0066-plus-one](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0172-factorial-trailing-zeroes) |
+| [0258-add-digits](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0268-missing-number) |
 | [0445-add-two-numbers-ii](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0445-add-two-numbers-ii) |
 | [0670-maximum-swap](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0670-maximum-swap) |
@@ -228,6 +229,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0258-add-digits) |
 | [0874-backspace-string-compare](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0874-backspace-string-compare) |
 | [0898-transpose-matrix](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0898-transpose-matrix) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -874,6 +876,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0258-add-digits) |
 | [2610-closest-prime-numbers-in-range](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2610-closest-prime-numbers-in-range) |
 | [2716-prime-subtraction-operation](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2716-prime-subtraction-operation) |
 ## Monotonic Queue
