@@ -143,6 +143,7 @@
 | [2699-count-the-number-of-fair-pairs](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2716-prime-subtraction-operation](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2716-prime-subtraction-operation) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2792-neighboring-bitwise-xor](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2792-neighboring-bitwise-xor) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -310,6 +311,7 @@
 | [2690-house-robber-iv](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2690-house-robber-iv) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2716-prime-subtraction-operation) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/SiddharthaArepalli/leet_code-/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/SiddharthaArepalli/leet_code-/tree/master/3427-special-array-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/SiddharthaArepalli/leet_code-/tree/master/3643-zero-array-transformation-ii) |
@@ -809,6 +811,7 @@
 | [2616-maximal-score-after-applying-k-operations](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-prime-subtraction-operation](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2716-prime-subtraction-operation) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/SiddharthaArepalli/leet_code-/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/SiddharthaArepalli/leet_code-/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3195-separate-black-and-white-balls](https://github.com/SiddharthaArepalli/leet_code-/tree/master/3195-separate-black-and-white-balls) |
