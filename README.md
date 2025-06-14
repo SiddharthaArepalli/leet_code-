@@ -201,6 +201,7 @@
 | [2448-count-number-of-bad-pairs](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2649-count-total-number-of-colored-cells) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2716-prime-subtraction-operation](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2716-prime-subtraction-operation) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2998-count-symmetric-integers](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2998-count-symmetric-integers) |
@@ -810,6 +811,7 @@
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2716-prime-subtraction-operation](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2716-prime-subtraction-operation) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/SiddharthaArepalli/leet_code-/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
