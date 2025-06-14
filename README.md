@@ -180,6 +180,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0002-add-two-numbers) |
+| [0043-multiply-strings](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0066-plus-one) |
@@ -230,6 +231,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0258-add-digits) |
 | [0874-backspace-string-compare](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0874-backspace-string-compare) |
@@ -481,6 +483,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0043-multiply-strings) |
 | [0093-restore-ip-addresses](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0257-binary-tree-paths) |
