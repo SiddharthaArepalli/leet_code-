@@ -159,6 +159,7 @@
 | [3194-find-words-containing-character](https://github.com/SiddharthaArepalli/leet_code-/tree/master/3194-find-words-containing-character) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/SiddharthaArepalli/leet_code-/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/SiddharthaArepalli/leet_code-/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/SiddharthaArepalli/leet_code-/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/SiddharthaArepalli/leet_code-/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3321-type-of-triangle](https://github.com/SiddharthaArepalli/leet_code-/tree/master/3321-type-of-triangle) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/SiddharthaArepalli/leet_code-/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -371,6 +372,7 @@
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/SiddharthaArepalli/leet_code-/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3321-type-of-triangle](https://github.com/SiddharthaArepalli/leet_code-/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/SiddharthaArepalli/leet_code-/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/SiddharthaArepalli/leet_code-/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -827,6 +829,7 @@
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/SiddharthaArepalli/leet_code-/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/SiddharthaArepalli/leet_code-/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3195-separate-black-and-white-balls](https://github.com/SiddharthaArepalli/leet_code-/tree/master/3195-separate-black-and-white-balls) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/SiddharthaArepalli/leet_code-/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Monotonic Stack
 |  |
 | ------- |
