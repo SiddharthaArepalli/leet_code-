@@ -124,6 +124,7 @@
 | [2308-divide-array-into-equal-pairs](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2308-divide-array-into-equal-pairs) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2358-number-of-ways-to-split-array) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2448-count-number-of-bad-pairs](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2465-shifting-letters-ii) |
@@ -365,6 +366,7 @@
 | [2164-two-best-non-overlapping-events](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2164-two-best-non-overlapping-events) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2215-finding-3-digit-even-numbers) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2585-delete-greatest-value-in-each-row) |
@@ -818,6 +820,7 @@
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2300-construct-string-with-repeat-limit](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2300-construct-string-with-repeat-limit) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2487-optimal-partition-of-string](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2487-optimal-partition-of-string) |
 | [2509-minimize-xor](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2509-minimize-xor) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
