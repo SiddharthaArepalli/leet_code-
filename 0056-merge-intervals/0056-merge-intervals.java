@@ -1,7 +1,7 @@
 class Solution {
     public int[][] merge(int[][] intv) {
         int n = intv.length;
-        Arrays.sort(intv, (a,b)-> Integer.compare(a[0],b[0]));
+        Arrays.sort(intv, (a,b)->a[0]-b[0]);
         int res[][] = new int[n][2];
         int pAt = intv[0][0];
         int pDt = intv[0][1];
