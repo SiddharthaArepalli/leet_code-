@@ -1,27 +1,27 @@
 class Solution {
-    public static void getPermute(int nums[] , List<List<Integer>> ans, int s){
-        if(s == nums.length){
-            List<Integer> cur = new ArrayList<>();
-            for(int n : nums){
-                cur.add(n);
+
+    public static void getPermute(int nums[] , List<List<Integer>> ans, List<Integer> cur, int val[]){
+        if(nums.length == cur.size()){
+            ans.add(new ArrayList<>(cur));
+            return;
+        }
+
+        for(int i = 0;i<nums.length;i++){
+            if(val[i] == 0){
+                cur.add(nums[i]);
+                val[i]=1;
+                getPermute(nums , ans , cur, val);
+                cur.remove(cur.size()-1);
+                val[i] = 0;
             }
-            ans.add(cur);
-        }
-        for(int i = s ;i<nums.length;i++){
-            swap(nums, s, i);
-            getPermute(nums, ans, s+1);
-            swap(nums, s, i);
         }
     }
-    public static void swap(int []nums,int i,int j){
-        int tem=nums[i];
-        nums[i]=nums[j];
-        nums[j]=tem;
-        return;
-    }
+
     public List<List<Integer>> permute(int[] nums) {
+        int n = nums.length;
         List<List<Integer>> ans = new ArrayList<>();
-        getPermute(nums, ans,0);
+        int val[] = new int[n];
+        getPermute(nums, ans, new ArrayList<>(),val);
         return ans;
     }
 
