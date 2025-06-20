@@ -14,6 +14,7 @@
 | [0039-combination-sum](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0066-plus-one) |
@@ -847,6 +848,7 @@
 | [0022-generate-parentheses](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0093-restore-ip-addresses) |
