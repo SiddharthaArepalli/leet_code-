@@ -570,6 +570,7 @@
 | [3451-string-compression-iii](https://github.com/SiddharthaArepalli/leet_code-/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/SiddharthaArepalli/leet_code-/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/SiddharthaArepalli/leet_code-/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3617-find-the-original-typed-string-i](https://github.com/SiddharthaArepalli/leet_code-/tree/master/3617-find-the-original-typed-string-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/SiddharthaArepalli/leet_code-/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3636-check-balanced-string](https://github.com/SiddharthaArepalli/leet_code-/tree/master/3636-check-balanced-string) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/SiddharthaArepalli/leet_code-/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
