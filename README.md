@@ -218,6 +218,7 @@
 | [2998-count-symmetric-integers](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2998-count-symmetric-integers) |
 | [3321-type-of-triangle](https://github.com/SiddharthaArepalli/leet_code-/tree/master/3321-type-of-triangle) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SiddharthaArepalli/leet_code-/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/SiddharthaArepalli/leet_code-/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/SiddharthaArepalli/leet_code-/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Matrix
 |  |
@@ -261,6 +262,7 @@
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/SiddharthaArepalli/leet_code-/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/SiddharthaArepalli/leet_code-/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SiddharthaArepalli/leet_code-/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/SiddharthaArepalli/leet_code-/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/SiddharthaArepalli/leet_code-/tree/master/3790-fruits-into-baskets-ii) |
 ## Two Pointers
 |  |
@@ -355,6 +357,7 @@
 | [2509-minimize-xor](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2509-minimize-xor) |
 | [2792-neighboring-bitwise-xor](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2792-neighboring-bitwise-xor) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/SiddharthaArepalli/leet_code-/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/SiddharthaArepalli/leet_code-/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Sorting
 |  |
 | ------- |
@@ -695,6 +698,7 @@
 | [1013-fibonacci-number](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1013-fibonacci-number) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2050-count-good-numbers](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2050-count-good-numbers) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/SiddharthaArepalli/leet_code-/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Stack
 |  |
 | ------- |
