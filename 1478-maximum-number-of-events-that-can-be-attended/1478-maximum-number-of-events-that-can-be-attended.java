@@ -9,7 +9,7 @@ class Solution {
              }
         });
         int count = 0;
-        int day = events[0][0];
+        int day = 1;
         PriorityQueue<Integer> pq = new PriorityQueue<>();
         int i = 0;
         while(!pq.isEmpty() || i<n){
