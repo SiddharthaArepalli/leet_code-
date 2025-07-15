@@ -9,27 +9,13 @@
  * }
  */
 class Solution {
-    public ListNode reverse(ListNode head){
-        ListNode prev = null;
-        ListNode cur = head;
-        ListNode next;
-        while(cur!=null){
-            next = cur.next;
-            cur.next = prev;
-            prev = cur;
-            cur = next;
-        }
-        return prev;
-    }
     public int getDecimalValue(ListNode head) {
-        ListNode tem  = reverse(head);
-        int sum = 0;
-        int power = 0;
-        while(tem!=null){
-            sum+=(tem.val)*Math.pow(2,power);
-            power++;
-            tem = tem.next;
-        }
-        return sum;
+          int ans = 0;
+          ListNode cur = head;
+          while(cur!=null){
+               ans = ((ans << 1) | cur.val);
+               cur = cur.next;
+          }
+          return ans;
     }
 }
