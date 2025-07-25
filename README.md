@@ -190,6 +190,7 @@
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/SiddharthaArepalli/leet_code-/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/SiddharthaArepalli/leet_code-/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3723-sum-of-good-numbers](https://github.com/SiddharthaArepalli/leet_code-/tree/master/3723-sum-of-good-numbers) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/SiddharthaArepalli/leet_code-/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/SiddharthaArepalli/leet_code-/tree/master/3790-fruits-into-baskets-ii) |
 ## Math
 |  |
@@ -476,6 +477,7 @@
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/SiddharthaArepalli/leet_code-/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/SiddharthaArepalli/leet_code-/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/SiddharthaArepalli/leet_code-/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/SiddharthaArepalli/leet_code-/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -883,6 +885,7 @@
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/SiddharthaArepalli/leet_code-/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3195-separate-black-and-white-balls](https://github.com/SiddharthaArepalli/leet_code-/tree/master/3195-separate-black-and-white-balls) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/SiddharthaArepalli/leet_code-/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/SiddharthaArepalli/leet_code-/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Monotonic Stack
 |  |
 | ------- |
