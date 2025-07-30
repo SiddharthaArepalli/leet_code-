@@ -142,6 +142,7 @@
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2478-longest-nice-subarray](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2478-longest-nice-subarray) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2585-delete-greatest-value-in-each-row) |
@@ -367,6 +368,7 @@
 | [2308-divide-array-into-equal-pairs](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2308-divide-array-into-equal-pairs) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2478-longest-nice-subarray](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2478-longest-nice-subarray) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2509-minimize-xor](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2509-minimize-xor) |
 | [2792-neighboring-bitwise-xor](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2792-neighboring-bitwise-xor) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/SiddharthaArepalli/leet_code-/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -1064,4 +1066,8 @@
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Brainteaser
+|  |
+| ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 <!---LeetCode Topics End-->
