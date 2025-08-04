@@ -61,6 +61,7 @@
 | [0898-transpose-matrix](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0898-transpose-matrix) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0907-koko-eating-bananas](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0907-koko-eating-bananas) |
+| [0940-fruit-into-baskets](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0940-fruit-into-baskets) |
 | [0948-sort-an-array](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0948-sort-an-array) |
 | [0952-word-subsets](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0952-word-subsets) |
 | [0979-di-string-match](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0979-di-string-match) |
@@ -435,6 +436,7 @@
 | [0816-design-hashset](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0816-design-hashset) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0940-fruit-into-baskets](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0952-word-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1160-letter-tile-possibilities) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -615,6 +617,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0713-subarray-product-less-than-k) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0940-fruit-into-baskets](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0940-fruit-into-baskets) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1755-defuse-the-bomb](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1755-defuse-the-bomb) |
