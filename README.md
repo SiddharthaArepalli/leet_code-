@@ -1001,6 +1001,7 @@
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2434-design-a-number-container-system) |
 | [2868-continuous-subarrays](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2868-continuous-subarrays) |
+| [3790-fruits-into-baskets-ii](https://github.com/SiddharthaArepalli/leet_code-/tree/master/3790-fruits-into-baskets-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
