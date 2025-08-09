@@ -210,6 +210,7 @@
 | [0231-power-of-two](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0412-fizz-buzz) |
 | [0445-add-two-numbers-ii](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0445-add-two-numbers-ii) |
 | [0670-maximum-swap](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0670-maximum-swap) |
@@ -365,6 +366,7 @@
 | [0260-single-number-iii](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0342-power-of-four) |
 | [1435-xor-queries-of-a-subarray](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -734,6 +736,7 @@
 | [0203-remove-linked-list-elements](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0234-palindrome-linked-list) |
+| [0342-power-of-four](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1013-fibonacci-number) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2050-count-good-numbers](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2050-count-good-numbers) |
