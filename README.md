@@ -135,6 +135,7 @@
 | [2308-divide-array-into-equal-pairs](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2308-divide-array-into-equal-pairs) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2338-minimum-consecutive-cards-to-pick-up](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2358-number-of-ways-to-split-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -466,6 +467,7 @@
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2300-construct-string-with-repeat-limit](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2300-construct-string-with-repeat-limit) |
 | [2308-divide-array-into-equal-pairs](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2308-divide-array-into-equal-pairs) |
+| [2338-minimum-consecutive-cards-to-pick-up](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2434-design-a-number-container-system](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2448-count-number-of-bad-pairs) |
@@ -626,6 +628,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1755-defuse-the-bomb](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1755-defuse-the-bomb) |
+| [2338-minimum-consecutive-cards-to-pick-up](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2478-longest-nice-subarray) |
