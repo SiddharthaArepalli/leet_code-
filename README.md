@@ -216,6 +216,7 @@
 | [0445-add-two-numbers-ii](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0445-add-two-numbers-ii) |
 | [0670-maximum-swap](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0670-maximum-swap) |
 | [0797-rabbits-in-forest](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0797-rabbits-in-forest) |
+| [0900-reordered-power-of-2](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -395,6 +396,7 @@
 | [0455-assign-cookies](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0455-assign-cookies) |
 | [0594-longest-harmonious-subsequence](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0594-longest-harmonious-subsequence) |
 | [0780-max-chunks-to-make-sorted](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0780-max-chunks-to-make-sorted) |
+| [0900-reordered-power-of-2](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0900-reordered-power-of-2) |
 | [0948-sort-an-array](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0948-sort-an-array) |
 | [1184-car-pooling](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1184-car-pooling) |
 | [1256-rank-transform-of-an-array](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1256-rank-transform-of-an-array) |
@@ -440,6 +442,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0797-rabbits-in-forest](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0797-rabbits-in-forest) |
 | [0816-design-hashset](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0816-design-hashset) |
+| [0900-reordered-power-of-2](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0900-reordered-power-of-2) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0940-fruit-into-baskets](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0940-fruit-into-baskets) |
@@ -511,6 +514,7 @@
 | [0383-ransom-note](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0594-longest-harmonious-subsequence) |
+| [0900-reordered-power-of-2](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0900-reordered-power-of-2) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1160-letter-tile-possibilities](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1160-letter-tile-possibilities) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -951,6 +955,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/SiddharthaArepalli/leet_code-/tree/master/0900-reordered-power-of-2) |
 | [1656-count-good-triplets](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/SiddharthaArepalli/leet_code-/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/SiddharthaArepalli/leet_code-/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
